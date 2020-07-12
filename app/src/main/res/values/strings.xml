@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WikiPlace</string>
+    <string name="general.error">Sorry, something went wrong</string>
+    <string name="general.error.noLocationPermission">Sorry, app can not work without location permission</string>
+    <string name="general.error.noLocationAvailable">Sorry, app can not get location to proceed</string>
+    <string name="places.title">Nearby places</string>
+    <string name="places.empty">No nearby places found</string>
+    <string name="places.gettingLocation">Getting Location...</string>
+
+    <plurals name="places.numberOfImages">
+        <item quantity="one">%1$s image</item>
+        <item quantity="other">%1$s images</item>
+        <item quantity="zero">%1$s images</item>
+    </plurals>
+</resources>

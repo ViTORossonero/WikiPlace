@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Theme">
+        <attr name="textColorPrimary" format="reference"/>
+        <attr name="textColorPrimaryInverse" format="reference"/>
+        <attr name="textColorSecondary" format="reference"/>
+
+        <attr name="toolbarOpaqueStyle" format="reference"/>
+
+        <attr name="textAppearanceTitle" format="reference"/>
+        <attr name="textAppearanceSubtitle" format="reference"/>
+    </declare-styleable>
+</resources>
